@@ -72,43 +72,23 @@ AI-forward full-stack engineer with 3+ years delivering enterprise applications 
 
 **Frontend**
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,vuejs,typescript,javascript,html,css&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,vuejs,typescript,javascript,html,css&theme=light">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,typescript,javascript,html,css&theme=light" alt="frontend skills"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,typescript,javascript,html,css&theme=dark" />
 
 **State, Styling &amp; Tooling**
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redux,tailwind,materialui,vite,figma&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=redux,tailwind,materialui,vite,figma&theme=light">
-  <img src="https://skillicons.dev/icons?i=redux,tailwind,materialui,vite,figma&theme=light" alt="tooling skills"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=redux,tailwind,materialui,vite,figma&theme=dark" />
 
 **Backend &amp; Database**
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet,nodejs,laravel,mysql,mongodb,firebase&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dotnet,nodejs,laravel,mysql,mongodb,firebase&theme=light">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,laravel,mysql,mongodb,firebase&theme=light" alt="backend skills"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,laravel,mysql,mongodb,firebase&theme=dark" />
 
 **Languages &amp; AI Tooling**
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,cpp,python,java,openai&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cs,cpp,python,java,openai&theme=light">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,openai&theme=light" alt="language skills"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=cs,cpp,python,java,openai&theme=dark" />
 
 **Dev Tools**
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,postman&theme=light">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=light" alt="dev tools"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" />
 
 </div>
 
@@ -125,60 +105,25 @@ AI-forward full-stack engineer with 3+ years delivering enterprise applications 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e2a47,100:14a3d2&height=3" width="100%"/>
 
-## Contribution Graph
-
-<div align="center">
-
-<sub>Snake eating through a year of commits, and a rotating 3D bar chart of the same data — set up once via GitHub Actions, updates automatically every day.</sub>
-
-<br/><br/>
-
-<!-- Populates once you add the Platane/snk GitHub Action to your own repo (writes to a separate "output" branch) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake"/>
-</picture>
-
-<br/><br/>
-
-<!-- Populates once you add the yoshi389111/github-profile-3d-contrib GitHub Action to your own repo (commits directly to main) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution chart"/>
-</picture>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e2a47,100:14a3d2&height=3" width="100%"/>
-
 ## GitHub Overview
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=saaifiqbal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=saaifiqbal&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=saaifiqbal&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saaifiqbal&layout=compact&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saaifiqbal&layout=compact&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaifiqbal&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages"/>
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=saaifiqbal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaifiqbal&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=saaifiqbal&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=saaifiqbal&theme=default&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saaifiqbal&theme=default&hide_border=true" width="90%" alt="Streak stats"/>
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saaifiqbal&theme=tokyonight&hide_border=true" width="90%"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=saaifiqbal&theme=tokyo-night&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=saaifiqbal&theme=minimal&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saaifiqbal&theme=minimal&hide_border=true" width="90%" alt="Contribution activity"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saaifiqbal&theme=tokyo-night&hide_border=true" width="90%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Enable via the Platane/snk GitHub Action on your own repo to populate with real contribution data -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
