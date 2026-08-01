@@ -129,7 +129,7 @@ AI-forward full-stack engineer with 3+ years delivering enterprise applications 
 
 <div align="center">
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=saaifiqbal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=saaifiqbal&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true">
   <img src="https://github-readme-stats.vercel.app/api?username=saaifiqbal&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats"/>
@@ -138,7 +138,7 @@ AI-forward full-stack engineer with 3+ years delivering enterprise applications 
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saaifiqbal&layout=compact&theme=tokyonight&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saaifiqbal&layout=compact&theme=default&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaifiqbal&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages"/>
-</picture>
+</picture> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=saaifiqbal&theme=tokyonight&hide_border=true">
