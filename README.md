@@ -72,23 +72,43 @@ AI-forward full-stack engineer with 3+ years delivering enterprise applications 
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,typescript,javascript,html,css&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,vuejs,typescript,javascript,html,css&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,vuejs,typescript,javascript,html,css&theme=light">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,typescript,javascript,html,css&theme=dark" alt="frontend skills"/>
+</picture>
 
 **State, Styling &amp; Tooling**
 <br/>
-<img src="https://skillicons.dev/icons?i=redux,tailwind,materialui,vite,figma&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redux,tailwind,materialui,vite,figma&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=redux,tailwind,materialui,vite,figma&theme=light">
+  <img src="https://skillicons.dev/icons?i=redux,tailwind,materialui,vite,figma&theme=dark" alt="tooling skills"/>
+</picture>
 
 **Backend &amp; Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,laravel,mysql,mongodb,firebase&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet,nodejs,laravel,mysql,mongodb,firebase&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dotnet,nodejs,laravel,mysql,mongodb,firebase&theme=light">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,laravel,mysql,mongodb,firebase&theme=dark" alt="backend skills"/>
+</picture>
 
 **Languages &amp; AI Tooling**
 <br/>
-<img src="https://skillicons.dev/icons?i=cs,cpp,python,java,openai&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,cpp,python,java,openai&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cs,cpp,python,java,openai&theme=light">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,openai&theme=dark" alt="language skills"/>
+</picture>
 
 **Dev Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,postman&theme=light">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" alt="dev tools"/>
+</picture>
 
 </div>
 
@@ -109,12 +129,28 @@ AI-forward full-stack engineer with 3+ years delivering enterprise applications 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saaifiqbal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaifiqbal&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=saaifiqbal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=saaifiqbal&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=saaifiqbal&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saaifiqbal&layout=compact&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saaifiqbal&layout=compact&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaifiqbal&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages"/>
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saaifiqbal&theme=tokyonight&hide_border=true" width="90%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=saaifiqbal&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=saaifiqbal&theme=default&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saaifiqbal&theme=default&hide_border=true" width="90%" alt="Streak stats"/>
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saaifiqbal&theme=tokyo-night&hide_border=true" width="90%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=saaifiqbal&theme=tokyo-night&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=saaifiqbal&theme=minimal&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saaifiqbal&theme=minimal&hide_border=true" width="90%" alt="Contribution activity"/>
+</picture>
 
 </div>
 
@@ -122,8 +158,12 @@ AI-forward full-stack engineer with 3+ years delivering enterprise applications 
 
 <div align="center">
 
-<!-- Enable via the Platane/snk GitHub Action on your own repo to populate with real contribution data -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+<sub>Contribution snake — set up via GitHub Actions to populate with your own commit history.</sub>
+
+<br/><br/>
+
+<!-- Placeholder demo from Platane/snk — swap for your own repo's output branch once your workflow runs successfully -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake"/>
 
 </div>
 
