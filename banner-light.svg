@@ -1,0 +1,43 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#eaf4fb"/>
+      <stop offset="50%" stop-color="#d6ecf9"/>
+      <stop offset="100%" stop-color="#bfe0f5"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="230" fill="url(#bgLight)"/>
+
+  <!-- animated wave layer -->
+  <path fill="#0e75b6" opacity="0.07">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+        M0,200 C300,230 900,170 1200,200 L1200,230 L0,230 Z;
+        M0,190 C300,160 900,230 1200,190 L1200,230 L0,230 Z;
+        M0,200 C300,230 900,170 1200,200 L1200,230 L0,230 Z"/>
+  </path>
+  <path fill="#0e75b6" opacity="0.11">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+        M0,215 C400,190 800,235 1200,210 L1200,230 L0,230 Z;
+        M0,205 C400,235 800,190 1200,220 L1200,230 L0,230 Z;
+        M0,215 C400,190 800,235 1200,210 L1200,230 L0,230 Z"/>
+  </path>
+
+  <!-- name: fades + slides in -->
+  <text x="600" y="105" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif"
+        font-size="56" font-weight="700" fill="#0e2a47" opacity="0">
+    Saif Iqbal
+    <animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="1s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate"
+      from="0,15" to="0,0" begin="0.1s" dur="1s" fill="freeze"/>
+  </text>
+
+  <!-- tagline: fades in after name -->
+  <text x="600" y="145" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif"
+        font-size="19" fill="#2c5a7c" opacity="0">
+    Software Engineer — Full-Stack Development &amp; Enterprise Applications
+    <animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="1s" fill="freeze"/>
+  </text>
+</svg>
