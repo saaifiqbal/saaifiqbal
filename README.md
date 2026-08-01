@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e2a47,50:0e75b6,100:14a3d2&height=230&section=header&text=Saif%20Iqbal&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%94%20Full-Stack%20Development%20%26%20Enterprise%20Applications&descAlignY=56&descSize=17" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1000&color=0E75B6&center=true&vCenter=true&width=680&lines=React+%2F+Next.js+%C2%B7+.NET+Core+%C2%B7+SQL+Server;3%2B+Years+%7C+100%2B+Production+Features+Shipped;Building+Portal+360+at+Ha-Meem+Group;AI-Assisted+Engineering+%7C+Claude+%2B+Cursor" alt="tagline" />
 
@@ -139,4 +139,4 @@ AI-forward full-stack engineer with 3+ years delivering enterprise applications 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14a3d2,50:0e75b6,100:0e2a47&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14a3d2,50:0e75b6,100:0e2a47&height=6" width="100%"/>
