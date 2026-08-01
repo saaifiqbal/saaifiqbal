@@ -133,7 +133,7 @@ AI-forward full-stack engineer with 3+ years delivering enterprise applications 
 
 <br/><br/>
 
-<!-- Populates once you add the Platane/snk GitHub Action to your own repo (produces both variants automatically) -->
+<!-- Populates once you add the Platane/snk GitHub Action to your own repo (writes to a separate "output" branch) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/github-contribution-grid-snake.svg">
@@ -142,11 +142,11 @@ AI-forward full-stack engineer with 3+ years delivering enterprise applications 
 
 <br/><br/>
 
-<!-- Populates once you add the yoshi389111/github-profile-3d-contrib GitHub Action to your own repo -->
+<!-- Populates once you add the yoshi389111/github-profile-3d-contrib GitHub Action to your own repo (commits directly to main) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/profile-south.svg">
-  <img src="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/profile-south.svg" width="100%" alt="3D contribution chart"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution chart"/>
 </picture>
 
 </div>
