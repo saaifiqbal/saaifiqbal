@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
+  <img src="./banner-dark.svg" width="100%" alt="Saif Iqbal — Software Engineer"/>
+</picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1000&color=0E75B6&center=true&vCenter=true&width=680&lines=React+%2F+Next.js+%C2%B7+.NET+Core+%C2%B7+SQL+Server;3%2B+Years+%7C+100%2B+Production+Features+Shipped;Building+Portal+360+at+Ha-Meem+Group;AI-Assisted+Engineering+%7C+Claude+%2B+Cursor" alt="tagline" />
 
@@ -68,23 +72,43 @@ AI-forward full-stack engineer with 3+ years delivering enterprise applications 
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,typescript,javascript,html,css&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,vuejs,typescript,javascript,html,css&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,vuejs,typescript,javascript,html,css&theme=light">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,typescript,javascript,html,css&theme=light" alt="frontend skills"/>
+</picture>
 
 **State, Styling &amp; Tooling**
 <br/>
-<img src="https://skillicons.dev/icons?i=redux,tailwind,materialui,vite,figma&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redux,tailwind,materialui,vite,figma&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=redux,tailwind,materialui,vite,figma&theme=light">
+  <img src="https://skillicons.dev/icons?i=redux,tailwind,materialui,vite,figma&theme=light" alt="tooling skills"/>
+</picture>
 
 **Backend &amp; Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,laravel,mysql,mongodb,firebase&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet,nodejs,laravel,mysql,mongodb,firebase&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dotnet,nodejs,laravel,mysql,mongodb,firebase&theme=light">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,laravel,mysql,mongodb,firebase&theme=light" alt="backend skills"/>
+</picture>
 
 **Languages &amp; AI Tooling**
 <br/>
-<img src="https://skillicons.dev/icons?i=cs,cpp,python,java,openai&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,cpp,python,java,openai&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cs,cpp,python,java,openai&theme=light">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,openai&theme=light" alt="language skills"/>
+</picture>
 
 **Dev Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,postman&theme=light">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=light" alt="dev tools"/>
+</picture>
 
 </div>
 
@@ -105,12 +129,28 @@ AI-forward full-stack engineer with 3+ years delivering enterprise applications 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saaifiqbal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaifiqbal&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=saaifiqbal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=saaifiqbal&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=saaifiqbal&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saaifiqbal&layout=compact&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saaifiqbal&layout=compact&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaifiqbal&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages"/>
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saaifiqbal&theme=tokyonight&hide_border=true" width="90%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=saaifiqbal&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=saaifiqbal&theme=default&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saaifiqbal&theme=default&hide_border=true" width="90%" alt="Streak stats"/>
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saaifiqbal&theme=tokyo-night&hide_border=true" width="90%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=saaifiqbal&theme=tokyo-night&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=saaifiqbal&theme=minimal&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saaifiqbal&theme=minimal&hide_border=true" width="90%" alt="Contribution activity"/>
+</picture>
 
 </div>
 
@@ -118,8 +158,12 @@ AI-forward full-stack engineer with 3+ years delivering enterprise applications 
 
 <div align="center">
 
-<!-- Enable via the Platane/snk GitHub Action on your own repo to populate with real contribution data -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+<!-- Populates once you add the Platane/snk GitHub Action to your own repo (produces both variants automatically) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake"/>
+</picture>
 
 </div>
 
