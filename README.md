@@ -125,6 +125,34 @@ AI-forward full-stack engineer with 3+ years delivering enterprise applications 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e2a47,100:14a3d2&height=3" width="100%"/>
 
+## Contribution Graph
+
+<div align="center">
+
+<sub>Snake eating through a year of commits, and a rotating 3D bar chart of the same data — set up once via GitHub Actions, updates automatically every day.</sub>
+
+<br/><br/>
+
+<!-- Populates once you add the Platane/snk GitHub Action to your own repo (produces both variants automatically) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake"/>
+</picture>
+
+<br/><br/>
+
+<!-- Populates once you add the yoshi389111/github-profile-3d-contrib GitHub Action to your own repo -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/profile-south.svg">
+  <img src="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/profile-south.svg" width="100%" alt="3D contribution chart"/>
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e2a47,100:14a3d2&height=3" width="100%"/>
+
 ## GitHub Overview
 
 <div align="center">
@@ -150,19 +178,6 @@ AI-forward full-stack engineer with 3+ years delivering enterprise applications 
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=saaifiqbal&theme=tokyo-night&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=saaifiqbal&theme=minimal&hide_border=true">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saaifiqbal&theme=minimal&hide_border=true" width="90%" alt="Contribution activity"/>
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Populates once you add the Platane/snk GitHub Action to your own repo (produces both variants automatically) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/saaifiqbal/saaifiqbal/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake"/>
 </picture>
 
 </div>
